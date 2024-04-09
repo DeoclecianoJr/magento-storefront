@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://webjump233-my.sharepoint.com/:f:/r/personal/deocleciano_junior_webjump_ai/Documents/storefront
 
 folders:
   /products/: /products/default
